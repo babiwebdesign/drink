@@ -1,4 +1,4 @@
-***→*** [babiwebdesign.github.io/drink/](https://barbweb.github.io/drink/)
+***→*** [babiwebdesign.github.io/drink/](https://babiwebdesign.github.io/drink/)
 
 *Drink Matchmaker* - A Webapp that recommends you a random drink based on the chosen flavors.
 
