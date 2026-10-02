@@ -1,4 +1,4 @@
-***→*** [barbweb.github.io/drink/](https://barbweb.github.io/drink/)
+***→*** [babiwebdesign.github.io/drink/](https://barbweb.github.io/drink/)
 
 *Drink Matchmaker* - A Webapp that recommends you a random drink based on the chosen flavors.
 
@@ -7,5 +7,3 @@
 - Option to Google search the drink <br>
 - Option to restart <br>
 
-*License*<br>
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
